@@ -1,0 +1,16 @@
+[{
+        "name": "Rüstəmov Tamerlan Mehmandar",
+        "department": "Xətt - Mexain",
+        "salary": 350
+    },
+    {
+        "name": "Rüstəmov Firdovsi Mehmandar",
+        "department": "Web Devoloper",
+        "salary": 750
+    },
+    {
+        "name": "Rüstəmov Tehmin Üzeyir",
+        "department": "Usta",
+        "salary": 600
+    }
+]
